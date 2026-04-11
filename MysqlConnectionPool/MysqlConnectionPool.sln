@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36915.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MysqlConnectionPool", "MysqlConnectionPool.vcxproj", "{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MysqlConnectionPool", "MysqlConnectionPool.vcxproj", "{0287213C-563C-4264-B561-057EFB857B87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Debug|x64.ActiveCfg = Debug|x64
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Debug|x64.Build.0 = Debug|x64
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Debug|x86.ActiveCfg = Debug|Win32
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Debug|x86.Build.0 = Debug|Win32
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Release|x64.ActiveCfg = Release|x64
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Release|x64.Build.0 = Release|x64
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Release|x86.ActiveCfg = Release|Win32
-		{393E20AE-ABDA-4CB7-B1A3-DC0B1B21E7A7}.Release|x86.Build.0 = Release|Win32
+		{0287213C-563C-4264-B561-057EFB857B87}.Debug|x64.ActiveCfg = Debug|x64
+		{0287213C-563C-4264-B561-057EFB857B87}.Debug|x64.Build.0 = Debug|x64
+		{0287213C-563C-4264-B561-057EFB857B87}.Debug|x86.ActiveCfg = Debug|Win32
+		{0287213C-563C-4264-B561-057EFB857B87}.Debug|x86.Build.0 = Debug|Win32
+		{0287213C-563C-4264-B561-057EFB857B87}.Release|x64.ActiveCfg = Release|x64
+		{0287213C-563C-4264-B561-057EFB857B87}.Release|x64.Build.0 = Release|x64
+		{0287213C-563C-4264-B561-057EFB857B87}.Release|x86.ActiveCfg = Release|Win32
+		{0287213C-563C-4264-B561-057EFB857B87}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {704C9014-151F-4477-BEBA-EA1425D99E1D}
+		SolutionGuid = {D412D89D-D112-43DD-BB62-B1162744E528}
 	EndGlobalSection
 EndGlobal
