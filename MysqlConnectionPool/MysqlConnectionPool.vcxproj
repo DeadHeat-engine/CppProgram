@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{585690c9-cb01-4982-b337-1183eb8a3110}</ProjectGuid>
+    <ProjectGuid>{393e20ae-abda-4cb7-b1a3-dc0b1b21e7a7}</ProjectGuid>
     <RootNamespace>MysqlConnectionPool</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
