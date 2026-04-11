@@ -1,0 +1,33 @@
+# 忽略编译生成的中间文件
+*.d
+# 忽略编译生成的目标文件
+*.slo
+*.lo
+*.o
+*.obj
+# 忽略预编译头文件
+*.gch
+*.pch
+# 忽略编译生成的动态库文件
+*.so
+*.dylib
+*.dll
+# 忽略Fortran模块文件
+*.mod
+*.smod
+# 忽略编译生成的静态库文件
+*.lai
+*.la
+*.a
+*.lib
+# 忽略可执行文件
+*.exe
+*.out
+*.app
+
+# VSCode
+vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
